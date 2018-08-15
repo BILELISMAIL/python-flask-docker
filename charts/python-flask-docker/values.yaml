@@ -1,11 +1,7 @@
 # Default values for python.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-<<<<<<< HEAD
-replicaCount: 1
-=======
 replicaCount: 3
->>>>>>> fec35b6550816426c9a680808545c9ab80097c4b
 image:
   repository: 10.7.249.99:5000/bilelismail/python-flask-docker
   tag: 0.0.4
