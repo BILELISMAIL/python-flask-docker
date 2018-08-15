@@ -1,4 +1,4 @@
 apiVersion: v1
 description: A Helm chart for Kubernetes
 name: python-flask-docker
-version: 0.0.4
+version: 0.0.5

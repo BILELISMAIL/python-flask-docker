@@ -4,7 +4,7 @@
 replicaCount: 3
 image:
   repository: 10.7.249.99:5000/bilelismail/python-flask-docker
-  tag: 0.0.4
+  tag: 0.0.5
   pullPolicy: IfNotPresent
 service:
   name: python-flask-docker
